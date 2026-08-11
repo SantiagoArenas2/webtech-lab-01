@@ -1,1 +1,5 @@
-# webtech-lab-01
+Lab 1 Web technologies
+
+Santiago Daniel Arenas Pinto
+
+link del lab: https://santiagoarenas2.github.io/webtech-lab-01/

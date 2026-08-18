@@ -1,4 +1,4 @@
-Lab 1 Web technologies
+Lab 2 Web technologies
 
 Santiago Daniel Arenas Pinto
 
